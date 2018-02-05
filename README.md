@@ -39,7 +39,7 @@ java -jar target/fcruz-0.0.1-SNAPSHOT.jar
 Access following URL on your favorite browser
 
 ```
-http://localhost:8080/location?address=Dam+Square+Amsterdam
+http://localhost:8080/location?address=Dam Square Amsterdam
 ```
 
 Or use curl
