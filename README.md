@@ -67,6 +67,9 @@ mvn -Dtest=com.example.fcruz.LocationControllerTest test
 
 ```
 
+## Swagger enabled API
+
+http://localhost:8080/swagger-ui.html
 
 ## Built With
 
